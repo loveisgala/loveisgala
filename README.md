@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **JavaScript Frameworks and Phyton!**
 
-- 👯 I’m looking for a remote-job and to collaborate on projects!
+- 👯 I’m looking for a remote-job and collaborate on projects!
+
+- ⚡️ Constantly learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
