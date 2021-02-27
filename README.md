@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Gala</h1>
-<h3>A front-end developer!</h3>
+<h3>A software developer!</h3>
 
 - 🌱 I’m currently learning **JavaScript Frameworks and Phyton!**
 
