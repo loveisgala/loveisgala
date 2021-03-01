@@ -1,15 +1,15 @@
-<h1>Hi 👋, I'm Gala</h1>
+c<h1>Hi <img src="https://img.icons8.com/dusk/38/000000/volunteering.png"/>, I'm Gala</h1>
 <h3>A software developer!</h3>
 
-- 🌱 I’m currently learning **JavaScript Frameworks and Phyton!**
+- <img src="https://img.icons8.com/dusk/30/000000/spa-flower.png"/> I’m currently learning **JavaScript Frameworks and Phyton!**
 
-- 👯 I’m looking for a remote-job and collaborate on projects!
+- <img src="https://img.icons8.com/dusk/30/000000/butterfly.png"/> I’m looking for a remote-job and collaborate on projects!
 
-- ⚡️ Constantly learning
+- <img src="https://img.icons8.com/dusk/30/000000/idea.png"/> Constantly learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ga-la" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ga-la" height="30" width="40" /></a>
+<img src="https://img.icons8.com/dusk/50/000000/linkedin.png"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
