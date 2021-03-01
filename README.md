@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://img.icons8.com/dusk/50/000000/linkedin.png"/>
+  <a href="https://www.linkedin.com/in/ga-la/"><img src="https://img.icons8.com/dusk/50/000000/linkedin.png"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
