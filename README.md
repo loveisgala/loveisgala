@@ -1,7 +1,7 @@
 <h1>Hi <img src="https://img.icons8.com/dusk/38/000000/volunteering.png"/>, I'm Gala</h1>
 <h3>A software developer!</h3>
 
-- <img src="https://img.icons8.com/dusk/30/000000/spa-flower.png"/> I’m currently learning **JavaScript Frameworks and Phyton!**
+- <img src="https://img.icons8.com/dusk/30/000000/spa-flower.png"/> I’m currently learning **JavaScript Frameworks and Python!**
 
 - <img src="https://img.icons8.com/dusk/30/000000/butterfly.png"/> I’m looking for a remote-job and collaborate on projects!
 
